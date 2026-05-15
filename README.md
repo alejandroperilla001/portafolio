@@ -16,10 +16,13 @@ $\color{White}\large{\textbf{Muchos paquetes de autoedición y editores de pági
 $\color{White}\large{\textbf{búsqueda de "Lorem Ipsum" va a dar por resultado muchos sitios web que usan este texto si se encuentran en estado de desarrollo.}}$
 $\color{White}\large{\textbf{Muchas versiones han evolucionado a través de los años, algunas veces por accidente, otras veces a propósito.}}$
 
+[pantalón-1](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf3--pantal%C3%B3n-1)
+
+[punto abierto](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf1--punto-abierto)
+
 ---
 
-## $\color{White}\Huge{\textbf{portafolio}}$
-[pantalón test](https://github.com/alejandroperilla001/portafolio/edit/main/README.md#colorwhitelargetextbf3--pantal%C3%B3n-1)
+## $\color{White}\Huge{\textbf{portafolio full}}$
 
 
 ### $\color{White}\large{\textbf{1:  punto abierto}}$
