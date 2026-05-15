@@ -16,10 +16,6 @@ $\color{White}\large{\textbf{Muchos paquetes de autoedición y editores de pági
 $\color{White}\large{\textbf{búsqueda de "Lorem Ipsum" va a dar por resultado muchos sitios web que usan este texto si se encuentran en estado de desarrollo.}}$
 $\color{White}\large{\textbf{Muchas versiones han evolucionado a través de los años, algunas veces por accidente, otras veces a propósito.}}$
 
-[pantalón-1](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf3--pantal%C3%B3n-1)
-
-[punto abierto](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf1--punto-abierto)
-
 ---
 
 ## $\color{White}\Huge{\textbf{portafolio full}}$
@@ -73,9 +69,49 @@ $\color{White}\large{\textbf{Muchas versiones han evolucionado a través de los 
 >
 >$\color{White}{\textsf{edición/color grading: yo}}$
 >
->$\color{White}{\textsf{musica: newyork}}$
+>$\color{White}{\textsf{musica: newyork - rapstar}}$
 >
 >[video completo](https://www.youtube.com/watch?v=DZKmqcFhRBs)
+
+------------------------
+
+### $\color{White}\large{\textbf{3:  chaqueta-2}}$
+  - $\color{White}{\textsf{chaqueta mochila + video(stills)}}$
+
+![chaqueta-2-1](./imagenes/chaqueta-2-1.jpeg)
+![chaqueta-2-2](./imagenes/chaqueta-2-2.jpeg)
+![chaqueta-2-3](./imagenes/chaqueta-2-3.jpeg)
+
+$\color{White}\large{\textbf{Grabado en Quilicura (-33.343065, -70.730248) con una Panasonic HC-X2000 y Nikon COOLPIX A10. Se usó Gaussian}}$
+$\color{White}\large{\textbf{Splatting (Postshot) para el efecto "3D". Se editó en Davinci Resolve (Audio, Color, Orden).}}$
+
+- $\color{White}\large{\textbf{En cuanto a la prenda en sí:}}$
+  - $\color{White}\large{\textbf{Patronaje propio (Chaqueta bomber/blazer)}}$
+  - $\color{White}\large{\textbf{Cuerpo de algodón}}$
+  - $\color{White}\large{\textbf{Forro tafetán}}$
+  - $\color{White}\large{\textbf{Puño de algodón}}$
+  - $\color{White}\large{\textbf{Tiene tiras por dentro para usar como mochila}}$
+
+
+>$\color{White}{\textsf{modelo: bea}}$
+>
+>$\color{White}{\textsf{grabación: yo}}$
+>
+>$\color{White}{\textsf{edición/color grading: yo}}$
+>
+>$\color{White}{\textsf{ayuda: diego}}$
+>
+>$\color{White}{\textsf{musica: slauson malone 1 - undercommons}}$
+>
+>[video completo](https://www.youtube.com/watch?v=W_qiskR5X0A)
+
+------------------------
+
+## $\color{White}\Huge{\textbf{index}}$
+
+[pantalón-1](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf3--pantal%C3%B3n-1)
+
+[punto abierto](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf1--punto-abierto)
 
 [^1]:arriba
 https://github.com/orgs/community/discussions/31570
