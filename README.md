@@ -8,44 +8,62 @@
 
 -----------------------------------------
 
-$\color{White}\large{\textbf{Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que}}$
-$\color{White}\large{\textbf{mira su diseño. El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de}}$
-$\color{White}\large{\textbf{usar textos como por ejemplo "Contenido aquí, contenido aquí". Estos textos hacen parecerlo un español que se puede leer.}}$
+*Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras queusar textos como por ejemplo "Contenido aquí, contenido aquí". Estos textos hacen parecerlo un español que se puede leer.*
 
-$\color{White}\large{\textbf{Muchos paquetes de autoedición y editores de páginas web usan el Lorem Ipsum como su texto por defecto, y al hacer una }}$
-$\color{White}\large{\textbf{búsqueda de "Lorem Ipsum" va a dar por resultado muchos sitios web que usan este texto si se encuentran en estado de desarrollo.}}$
-$\color{White}\large{\textbf{Muchas versiones han evolucionado a través de los años, algunas veces por accidente, otras veces a propósito.}}$
+*Muchos paquetes de autoedición y editores de páginas web usan el Lorem Ipsum como su texto por defecto, y al hacer una búsqueda de "Lorem Ipsum" va a dar por resultado muchos sitios web que usan este texto si se encuentran en estado de desarrollo. Muchas versiones han evolucionado a través de los años, algunas veces por accidente, otras veces a propósito.*
 
-### [*index*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitehugetextbfindex)
----
+-----------------------------------------
 
-## $\color{White}\Huge{\textbf{portafolio full}}$
+## $\color{White}\Huge{\textbf{Index}}$
 
+### $\color{White}\large{\textbf{Ropa}}$
 
-### $\color{White}\large{\textbf{1:  punto abierto}}$
-  - $\color{White}{\textsf{conjunto tejido + sesión fotográfica}}$
+>[*Punto abierto*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf1--punto-abierto)
+>
+>[*Short-1*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf2--short-1)
+>
+>[*Pantalón-1*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf3--pantal%C3%B3n-1)
+>
+>[*Chaqueta-2*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf3--chaqueta-2)
+>
+>*Camisa-1*
+>
+>*Impermeable-1*
+>
+>*Blazer-1*
+
+### $\color{White}\large{\textbf{Audio}}$
+
+> [*Synth-1*](https://github.com/alejandroperilla001/portafolio#colorwhitelargetextbf6--synth-1)
+>
+> 
+
+-----------------------------------------
+
+## $\color{White}\Huge{\textbf{Portafolio}}$
+
+### $\color{White}\large{\textbf{1:  Punto abierto}}$
+  - **conjunto tejido + sesión fotográfica**
 
 ![tejido-1-1](./imagenes/tejido-1-1.jpeg)
 ![tejido-1-2](./imagenes/tejido-1-2.jpeg)
 ![tejido-1-3](./imagenes/tejido-1-3.jpeg)
 
-$\color{White}\large{\textbf{Fotos sacadas en el Mall Araucano (-33.401315, -70.575180). Se utilizó una Nikon D5000. Para editar se usó}}$
-$\color{White}\large{\textbf{Davinci Resolve (Color, Montaje). El trabajo fue en grupo por lo que el resto de prendas son de compañeros.}}$
-$\color{White}\large{\textbf{(La mia siendo el chaleco)}}$
+****Fotos sacadas en el Mall Araucano *(-33.401315, -70.575180)*. Se utilizó una Nikon D5000. Para editar se usó Davinci Resolve (Color, Montaje). El trabajo fue en grupo por lo que el resto de prendas son de compañeros. *(La mia siendo el chaleco)*****
 
-- $\color{White}\large{\textbf{En cuanto a la prenda en sí:}}$
-  - $\color{White}\large{\textbf{Patronaje propio (Chaleco suelto)}}$
-  - $\color{White}\large{\textbf{Hilado de algodón}}$
+- ****Especificaciónes:****
+  - Patronaje propio (Chaleco suelto)
+  - Hilado de algodón y lana
 
->$\color{White}{\textsf{modelo: cris}}$
+>*modelo: cris*
 >
->$\color{White}{\textsf{fotografía: yo}}$
+>*fotografía: yo*
 >
->$\color{White}{\textsf{gorro: cris + josefa}}$
+>*gorro: cris + josefa*
 
-------------------------
+-----------------------------------------
 
-### $\color{White}\large{\textbf{2:  short-1}}$
+### $\color{White}\large{\textbf{2:  Short-1}}$
   - $\color{White}{\textsf{short deconstruido + video(stills)}}$
 
 
@@ -60,7 +78,7 @@ $\color{White}\large{\textbf{Se creó una ruta por Providencia para grabar de ma
 $\color{White}\large{\textbf{y de vuelta. Se grabó con la camara dentro de una bolsa de Jumbo con un orifício, para poder caminar la ruta}}$
 $\color{White}\large{\textbf{planeada mientras se grababa.}}$
 
-- $\color{White}\large{\textbf{En cuanto a la prenda en sí:}}$
+- $\color{White}\large{\textbf{Especificaciónes:}}$
   - $\color{White}\large{\textbf{Patrón propio (Shorts acampanados deconstruidos)}}$
   - $\color{White}\large{\textbf{Bolsillo de vivo inverso (Dentro afuera)}}$
   - $\color{White}\large{\textbf{Detalles de hilvanado y tela deshilachada}}$
@@ -76,11 +94,11 @@ $\color{White}\large{\textbf{planeada mientras se grababa.}}$
 >
 >$\color{White}{\textsf{musica: yo (ableton)}}$
 >
->[video completo](https://www.youtube.com/watch?v=CWF338GuosY)
+>[*video completo*](https://www.youtube.com/watch?v=CWF338GuosY)
 
-------------------------
+-----------------------------------------
 
-### $\color{White}\large{\textbf{3:  pantalón-1}}$
+### $\color{White}\large{\textbf{3:  Pantalón-1}}$
   - $\color{White}{\textsf{pantalón modificado + video(stills)}}$
 
 ![pantalón-1-1](./imagenes/pantalon-1-1.png)
@@ -92,7 +110,7 @@ $\color{White}\large{\textbf{Se grabó y fotografió a gente desconocida en la c
 $\color{White}\large{\textbf{Para grabar y sacar fotos se utilizó una Nikon D5600 y iPhone. Y para editar se usó Davinci Resolve}}$
 $\color{White}\large{\textbf{y Sony Vegas 18 Pro (Audio, Color, Montaje).}}$
 
-- $\color{White}\large{\textbf{En cuanto a la prenda en sí:}}$
+- $\color{White}\large{\textbf{Especificaciónes:}}$
   - $\color{White}\large{\textbf{Patrón no propio (Modificado en las rodillas y pretina)}}$
   - $\color{White}\large{\textbf{Mezclilla}}$
   - $\color{White}\large{\textbf{Remaches}}$
@@ -106,11 +124,11 @@ $\color{White}\large{\textbf{y Sony Vegas 18 Pro (Audio, Color, Montaje).}}$
 >
 >$\color{White}{\textsf{musica: newyork - rapstar}}$
 >
->[video completo](https://www.youtube.com/watch?v=DZKmqcFhRBs)
+>[*video completo*](https://www.youtube.com/watch?v=DZKmqcFhRBs)
 
-------------------------
+-----------------------------------------
 
-### $\color{White}\large{\textbf{4:  chaqueta-2}}$
+### $\color{White}\large{\textbf{4:  Chaqueta-2}}$
   - $\color{White}{\textsf{chaqueta mochila + video(stills)}}$
 
 ![chaqueta-2-1](./imagenes/chaqueta-2-1.jpeg)
@@ -120,7 +138,7 @@ $\color{White}\large{\textbf{y Sony Vegas 18 Pro (Audio, Color, Montaje).}}$
 $\color{White}\large{\textbf{Grabado en Quilicura (-33.343065, -70.730248) con una Panasonic HC-X2000 y Nikon COOLPIX A10. Se usó Gaussian}}$
 $\color{White}\large{\textbf{Splatting (Postshot) para el efecto "3D". Se editó en Davinci Resolve (Audio, Color, Montaje).}}$
 
-- $\color{White}\large{\textbf{En cuanto a la prenda en sí:}}$
+- $\color{White}\large{\textbf{Especificaciónes:}}$
   - $\color{White}\large{\textbf{Patronaje propio (Chaqueta bomber/blazer)}}$
   - $\color{White}\large{\textbf{Cuerpo de algodón}}$
   - $\color{White}\large{\textbf{Forro tafetán}}$
@@ -138,11 +156,11 @@ $\color{White}\large{\textbf{Splatting (Postshot) para el efecto "3D". Se editó
 >
 >$\color{White}{\textsf{musica: slauson malone 1 - undercommons}}$
 >
->[video completo](https://www.youtube.com/watch?v=W_qiskR5X0A)
+>[*video completo*](https://www.youtube.com/watch?v=W_qiskR5X0A)
 
-------------------------
+-----------------------------------------
 
-### $\color{White}\large{\textbf{5:  camisa-1}}$
+### $\color{White}\large{\textbf{5:  Camisa-1}}$
   - $\color{White}{\textsf{camisa con cierre curvo + video(stills)}}$
 
 ![camisa-1-2](./imagenes/camisa-1-2.png)
@@ -153,7 +171,7 @@ $\color{White}\large{\textbf{Grabado en el Parque Bicentenario (-33.399612, -70.
 $\color{White}\large{\textbf{Se utilizó una Panasonic HC-X2000 y Nikon COOLPIX A10. Para efectos se usó TouchDesigner y para editar}}$
 $\color{White}\large{\textbf{se usaron Davinci Resolve y Sony Vegas 18 Pro (Audio, Color, Montaje).}}$
 
-- $\color{White}\large{\textbf{En cuanto a la prenda en sí:}}$
+- $\color{White}\large{\textbf{Especificaciónes:}}$
   - $\color{White}\large{\textbf{Patronaje propio (Camisa asimétrica)}}$
   - $\color{White}\large{\textbf{Cuerpo de algodón}}$
   - $\color{White}\large{\textbf{Hilo reflectante}}$
@@ -170,32 +188,77 @@ $\color{White}\large{\textbf{se usaron Davinci Resolve y Sony Vegas 18 Pro (Audi
 >
 >$\color{White}{\textsf{musica: yo (ableton)}}$
 >
->[video completo](https://www.youtube.com/watch?v=NZLylnTXRs8)
+>[*video completo*](https://www.youtube.com/watch?v=NZLylnTXRs8)
 
-------------------------
+-----------------------------------------
+
+### $\color{White}\large{\textbf{6:  Impermeable-1}}$
+  - **chaqueta impermeable + video(stills)**
+
+![impermeable-1-1](./imagenes/chaqueta-3-3.png)
+![impermeable-1-2](./imagenes/chaqueta-3-2.png)
+![impermeable-1-3](./imagenes/chaqueta-3-1.png)
+
+****Fotos sacadas por Providencia *(-33.419746, -70.606137)*. Se utilizó una Nikon D5000 y Nikon COOLPIX A10. Para editar se usó Sony Vegas 18 Pro (Color, Montaje). Se tomaron varias fotos de la chaqueta en publico y se creó un informativo sobre un producto no existente para tener de fondo en el video. También se usó fotogrametría para crear modelos 3D me mí usando la chaqueta.****
+
+- ****Especificaciónes:****
+  - Patronaje no propio (Modificado)
+  - Tela impermeable
+  - Forro malla
+  - Elasticos en puño
+  - Cierre impermeable
+
+>*modelo: yo*
+>
+>*fotografía: yo*
+>
+>grabación: yo
+>
+>edición/color grading: yo
+>
+>ayuda: anto
+>
+>musica: yo (ableton)
+
+-----------------------------------------
+
+### $\color{White}\large{\textbf{7:  Blazer-1}}$
+  - **blazer/bolso/falda + video(stills)**
+
+![blazer-1-3](./imagenes/chaqueta-1-4.jpg)
+![blazer-1-1](./imagenes/chaqueta-1-1.png)
+![blazer-1-2](./imagenes/chaqueta-1-2.png)
+
+****Videos grabados por Providencia *(-33.410579, -70.604302)* y fotos sacadas en la FAAD (UDP). Se utilizó una Nikon D5000 y Osmo Pocket 3. Para editar se usó Davinci Resolve y Sony Vegas 18 Pro (Color, Montaje). .****
+
+- ****Especificaciónes:****
+  - Patronaje propio
+  - Tela Lino
+  - Forro algodón
+  - Terminado deshilachado y costuras a mano en bolsillo y basta
+  - Botones concha perla
+
+>*modelo: yo/cris*
+>
+>*fotografía: yo*
+>
+>grabación: yo/diego
+>
+>edición/color grading: yo
+>
+>ayuda: diego
+>
+>musica: weed420 - La Guerra De Los Sexos
+
+-----------------------------------------
 
 ### $\color{White}\large{\textbf{6:  synth-1}}$
   - $\color{White}{\textsf{synth noise + video}}$
 
 https://github.com/user-attachments/assets/3d1646ff-ac86-4db6-b7c6-03cf5cbab18f
 
-------------------------
+-----------------------------------------
 
-## $\color{White}\Huge{\textbf{index}}$
-
-### Ropa
-
-[punto abierto](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf1--punto-abierto)
-
-[short-1](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf2--short-1)
-
-[pantalón-1](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf3--pantal%C3%B3n-1)
-
-[chaqueta-2](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf3--chaqueta-2)
-
-camisa-1
-
-### Musica
 
 [^1]:arriba
 https://github.com/orgs/community/discussions/31570
