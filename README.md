@@ -28,11 +28,13 @@
 >
 >[*Camisa-1*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf5--camisa-1)
 >
->*Impermeable-1*
+>[*Impermeable-1*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf6--impermeable-1)
 >
->*Blazer-1*
+>[*Blazer-1*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf7--blazer-1)
 >
->*Pantalon-2*
+>[*Pantalón-2*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf8--pantalon-2)
+>
+>*Camisa-2*
 
 ### $\color{White}\large{\textbf{Audio}}$
 
@@ -249,7 +251,7 @@
 
 -----------------------------------------
 
-### $\color{White}\large{\textbf{8:  Pantalon-2}}$
+### $\color{White}\large{\textbf{8:  Pantalón-2}}$
   - **pantalon transparente + sesión fotográfica**
 
 ![pantalon-2-1](./imagenes/pantalon-2-1.png)
@@ -273,6 +275,40 @@
 
 -----------------------------------------
 
+### $\color{White}\large{\textbf{9:  Camisa-2}}$
+  - **pantalón/camisa/gorro/pin + sesión fotográfica/video(stills)**
+
+![camisa-2-1](./imagenes/camisa-2-1.jpg)
+![camisa-2-2](./imagenes/camisa-2-2.jpg)
+![camisa-2-3](./imagenes/camisa-2-3.jpg)
+
+****Fotos sacadas la FAAD (UDP) *(-33.450422, -70.667205)*. Se contrató a un fotografo profesional para la sesión. El trabajo fue en grupo por lo que el resto de prendas son de compañeros *(Solo muestro las mias).*****
+
+****Para el video, se usó una Nikon D5600 y Nikon COOLPIX A10. Para editar se usó Davinci Resolve (Color, Montaje). Como grupo fuimos a una bodega industrial en Lampa *(-33.317952, -70.747493)* que fue facilitada por Procentro.****
+
+- ****Especificaciónes:****
+  - Camisa (Patronaje propio con poleras interceptadas)
+  - Pantalón (Patronaje propio tipo pescador)
+  - Gorro (Patronaje propio con alambre para estructura)
+  - Pin de descartes de la tela principal cortado a laser + lata + fieltro
+
+>*modelos: ???*
+>
+>*fotografía profesional: ???*
+>
+>*grabación: yo*
+>
+>*edición/color grading: yo*
+>
+>*compañeras de trabajo: martina ayala / martina araya*
+>
+>*musica: slauson malone 1 - I'm tired (see page 28 and 200)
+>
+>[*video completo* ](https://www.youtube.com/watch?v=EVQEaQVBm-U)
+
+-----------------------------------------
+
+
 ### $\color{White}\large{\textbf{6:  synth-1}}$
   - $\color{White}{\textsf{synth noise + video}}$
 
@@ -284,6 +320,6 @@ https://github.com/user-attachments/assets/3d1646ff-ac86-4db6-b7c6-03cf5cbab18f
 [^1]:arriba
 
 
-https://github.com/orgs/community/discussions/31570
-https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-https://image-compressor.github.io
+>https://github.com/orgs/community/discussions/31570
+>https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+>https://image-compressor.github.io
