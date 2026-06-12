@@ -8,9 +8,11 @@
 
 -----------------------------------------
 
-*Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras queusar textos como por ejemplo "Contenido aquí, contenido aquí". Estos textos hacen parecerlo un español que se puede leer.*
+![banner](./imagenes/banner.png)
 
-*Muchos paquetes de autoedición y editores de páginas web usan el Lorem Ipsum como su texto por defecto, y al hacer una búsqueda de "Lorem Ipsum" va a dar por resultado muchos sitios web que usan este texto si se encuentran en estado de desarrollo. Muchas versiones han evolucionado a través de los años, algunas veces por accidente, otras veces a propósito.*
+*Hay un personaje que se llama David Hume y hace unos años ya le achuntó aproximadamente a algo que encuentro interesante.*
+
+*Nunca hay manera de saber algo. Realmente saber y ser consciente de algo por certeza. Yo sé que puede haber un elefante morado atrás mío bailando y nadie me puede decir que no.*
 
 -----------------------------------------
 
@@ -18,7 +20,7 @@
 
 ### $\color{White}\large{\textbf{Ropa}}$
 
->[*"Punto abierto"*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf1--punto-abierto)
+>[*Punto abierto*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf1--punto-abierto)
 >
 >[*Short-1*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf2--short-1)
 >
@@ -34,13 +36,13 @@
 >
 >[*Pantalón-2*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf8--pantalon-2)
 >
->*Camisa-2*
+>[*Camisa-2*](https://github.com/alejandroperilla001/portafolio#colorwhitelargetextbf9--camisa-2)
 
 ### $\color{White}\large{\textbf{Audio}}$
 
-> [*Synth-1*](https://github.com/alejandroperilla001/portafolio#colorwhitelargetextbf6--synth-1)
+> [*Synth-1*](https://github.com/alejandroperilla001/portafolio#colorwhitelargetextbf10--synth-1)
 >
-> 
+> [*Caja-galletas*](https://github.com/alejandroperilla001/portafolio#colorwhitelargetextbf11--caja-galletas)
 
 -----------------------------------------
 
@@ -304,18 +306,31 @@
 >
 >*musica: slauson malone 1 - I'm tired (see page 28 and 200)
 >
->[*video completo* ](https://www.youtube.com/watch?v=EVQEaQVBm-U)
+>[*video completo*](https://www.youtube.com/watch?v=EVQEaQVBm-U)
 
 -----------------------------------------
 
 
-### $\color{White}\large{\textbf{6:  synth-1}}$
-  - $\color{White}{\textsf{synth noise + video}}$
+### $\color{White}\large{\textbf{10:  synth-1}}$
+  - **synth noise + video**
 
 https://github.com/user-attachments/assets/3d1646ff-ac86-4db6-b7c6-03cf5cbab18f
 
 -----------------------------------------
 
+### $\color{White}\large{\textbf{11:  caja-galletas}}$
+  - **caja noise en proceso**
+
+![pcb-proceso-1](./imagenes/pcb-2-1.png)
+![pcb-proceso-2](./imagenes/pcb-2-2.png)
+
+****Caja de aluminio con entrada de pder Jack 3.5mm y efectos integrados. Como resultado final esta caja produce sonidos saturados y ruidosos pero tranquilos.*****
+
+- ****Especificaciónes:****
+  - Regulador de voltaje (78L05)
+  - Reverb/Echo (PT2399)
+  - Pre-Amp/Amp (TL072)
+  - Muff Fuzz (2N5088)
 
 [^1]:arriba
 
