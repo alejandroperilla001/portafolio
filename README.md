@@ -1,6 +1,6 @@
 # $\color{White}\Huge{\textbf{alejandroperilla001}}$ ![logo](./imagenes/logomini.png)[^1].
 
-> https://www.instagram.com/mxna________/ *(final)*
+> https://www.instagram.com/aperilla________/ *(final)*
 >
 > https://www.instagram.com/alejandroperilla001/ *(procesos)*
 > 
@@ -8,11 +8,7 @@
 
 -----------------------------------------
 
-![banner](./imagenes/banner.png)
-
-*Hay un personaje que se llama David Hume y hace unos años ya le achuntó aproximadamente a algo que encuentro interesante.*
-
-*Nunca hay manera de saber algo. Realmente saber y ser consciente de algo por certeza. Yo sé que puede haber un elefante morado atrás mío bailando y nadie me puede decir que no.*
+![banner](./imagenes/banner-2.gif)
 
 -----------------------------------------
 
@@ -38,12 +34,6 @@
 >
 >[*Camisa-2*](https://github.com/alejandroperilla001/portafolio#colorwhitelargetextbf9--camisa-2)
 
-### $\color{White}\large{\textbf{Audio}}$
-
-> [*Synth-1*](https://github.com/alejandroperilla001/portafolio#colorwhitelargetextbf10--synth-1)
->
-> [*Caja-galletas*](https://github.com/alejandroperilla001/portafolio#colorwhitelargetextbf11--caja-galletas)
-
 -----------------------------------------
 
 ## $\color{White}\Huge{\textbf{Portafolio}}$
@@ -65,7 +55,7 @@
 >
 >*fotografía: yo*
 >
->*gorro: cris + josefa*
+>*resto de prendas: [cris](https://www.instagram.com/kaiik0u/) / [josefa](https://www.instagram.com/josefa.kristina/) / [martina](https://www.instagram.com/m_269a/) / [anto](https://www.instagram.com/oss_wxld/)*
 
 -----------------------------------------
 
@@ -95,7 +85,7 @@
 >
 >*edición/color grading: yo*
 >
->*musica: yo (ableton)*
+>*música: yo (ableton)*
 >
 >[*video completo*](https://www.youtube.com/watch?v=CWF338GuosY)
 
@@ -110,19 +100,21 @@
 
 ****Grabado una oficina (-33.423317, -70.608844) amablemente facilitada para el proyecto por Mary. Se grabó y fotografió a gente desconocida en la calle (Sanhattan) sujetando el pantalón (2do still). Para grabar y sacar fotos se utilizó una Nikon D5600 y iPhone. Y para editar se usó Davinci Resolve y Sony Vegas 18 Pro (Audio, Color, Montaje).****
 
+****El video fue parte del 3% (de 1550) preseleccionado para el Artist Grant del 2025.****
+
 - ****Especificaciónes:****
   - Patrón no propio (Modificado en las rodillas y pretina)
   - Mezclilla
   - Remaches
   - Cierre YKK
 
->*modelo: ???*
+>*modelos: ???*
 >
 >*grabación: yo*
 >
 >*edición/color grading: yo*
 >
->*musica: newyork - rapstar*
+>*música: newyork - rapstar*
 >
 >[*video completo*](https://www.youtube.com/watch?v=DZKmqcFhRBs)
 
@@ -183,7 +175,7 @@
 >
 >*ayuda: diego/cris*
 >
->*musica: yo (ableton)*
+>*música: yo (ableton)*
 >
 >[*video completo*](https://www.youtube.com/watch?v=NZLylnTXRs8)
 
@@ -215,7 +207,7 @@
 >
 >*ayuda: anto*
 >
->*musica: yo (ableton)*
+>*música: yo (ableton)*
 >
 >[*video completo*](https://www.youtube.com/watch?v=x8c565VDIYk)
 
@@ -247,7 +239,7 @@
 >
 >*ayuda: diego*
 >
->*musica: weed420 - La Guerra De Los Sexos*
+>*música: weed420 - La Guerra De Los Sexos*
 >
 >[*video completo*](https://www.youtube.com/watch?v=uoZ_5zrZdN4)
 
@@ -304,37 +296,10 @@
 >
 >*compañeras de trabajo: martina ayala / martina araya*
 >
->*musica: slauson malone 1 - I'm tired (see page 28 and 200)
+>*música: slauson malone 1 - I'm tired (see page 28 and 200)*
 >
 >[*video completo*](https://www.youtube.com/watch?v=EVQEaQVBm-U)
 
 -----------------------------------------
 
-
-### $\color{White}\large{\textbf{10:  synth-1}}$
-  - **synth noise + video**
-
-https://github.com/user-attachments/assets/3d1646ff-ac86-4db6-b7c6-03cf5cbab18f
-
------------------------------------------
-
-### $\color{White}\large{\textbf{11:  caja-galletas}}$
-  - **caja noise en proceso**
-
-![pcb-proceso-1](./imagenes/pcb-2-1.png)
-![pcb-proceso-2](./imagenes/pcb-2-2.png)
-
-****Caja de aluminio con entrada de pder Jack 3.5mm y efectos integrados. Como resultado final esta caja produce sonidos saturados y ruidosos pero tranquilos.*****
-
-- ****Especificaciónes:****
-  - Regulador de voltaje (78L05)
-  - Reverb/Echo (PT2399)
-  - Pre-Amp/Amp (TL072)
-  - Muff Fuzz (2N5088)
-
 [^1]:arriba
-
-
->https://github.com/orgs/community/discussions/31570
->https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
->https://image-compressor.github.io
