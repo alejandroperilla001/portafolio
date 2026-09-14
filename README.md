@@ -34,7 +34,7 @@
 >
 >[*Camisa-2*](https://github.com/alejandroperilla001/portafolio#colorwhitelargetextbf9--camisa-2)
 >
->*Blazer-2*
+>[*Blazer-2*](https://github.com/alejandroperilla001/portafolio#colorwhitelargetextbf10--blazer-2)
 
 -----------------------------------------
 
