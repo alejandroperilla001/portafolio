@@ -33,6 +33,8 @@
 >[*Pantalón-2*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf8--pantalon-2)
 >
 >[*Camisa-2*](https://github.com/alejandroperilla001/portafolio#colorwhitelargetextbf9--camisa-2)
+>
+>*Blazer-2*
 
 -----------------------------------------
 
@@ -299,6 +301,37 @@
 >*música: slauson malone 1 - I'm tired (see page 28 and 200)*
 >
 >[*video completo*](https://www.youtube.com/watch?v=EVQEaQVBm-U)
+
+-----------------------------------------
+
+### $\color{White}\large{\textbf{10:  Blazer-2}}$
+  - **Chaqueta sastre + video(stills)**
+
+
+![blazer-2-1](./imagenes/blazer-2-1.png)
+![blazer-2-2](./imagenes/blazer-2-2.png)
+![blazer-2-3](./imagenes/blazer-2-3.png)
+
+****Grabado por Plaza de Armas *(-33.4381399, -70.6498295)*. Para grabar se utilizó una Vixia HF G70 y para editar se usó Davinci Resolve (Audio, Color, Montaje).****
+
+****Se grabó en la misma Plaza de Armas y en los Juegos Diana.****
+
+- ****Especificaciónes:****
+  - Patrón propio (Chaqueta sastre a medida)
+  - Armado de pecho (Optima y Napa)
+  - Cuello de una pieza con fieltro
+  - Bolsillos con vivos de 5mm y tapeta
+  - 2 forros (Cuerpo y mangas)
+
+>*modelo: xavier*
+>
+>*grabación: yo*
+>
+>*edición/color grading: yo*
+>
+>*música: yo (ableton)*
+>
+>[*video completo*](https://www.youtube.com/watch?v=Y7w2_wEkg5I)
 
 -----------------------------------------
 
