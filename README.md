@@ -38,6 +38,31 @@
 
 -----------------------------------------
 
+### $\color{White}\large{\textbf{.mp3}}$
+
+> [*caroline.mp3*](https://github.com/user-attachments/files/32222894/caroline.mp3)
+>
+> [*98.mp3*](https://github.com/user-attachments/files/32223058/98.mp3)
+>
+> [*9.5_cebolla_caramelizada.mp3*](https://github.com/user-attachments/files/32223080/9.5_cebolla_caramelizada.mp3)
+>
+> [*3.5.mp3*](https://github.com/user-attachments/files/32223091/3.5.mp3)
+>
+> [*hola.mp3*](https://github.com/user-attachments/files/32223094/hola.mp3)
+>
+> [*odio a las del asado.mp3*](https://github.com/user-attachments/files/32223124/odio.a.las.del.asado.mp3)
+>
+> [*9.6_1.mp3*](https://github.com/user-attachments/files/32223134/9.6_1.mp3)
+
+
+
+
+
+
+
+
+-----------------------------------------
+
 ## $\color{White}\Huge{\textbf{Portafolio}}$
 
 ### $\color{White}\large{\textbf{1:  Punto abierto}}$
@@ -53,7 +78,7 @@
   - Patronaje propio (Chaleco suelto)
   - Hilado de algodón y lana
 
->*modelo: cris*
+>*modelo: [cris](https://www.instagram.com/kaiik0u/)*
 >
 >*fotografía: yo*
 >
@@ -69,7 +94,7 @@
 ![short-1-2](./imagenes/short-1-2.png)
 ![short-1-3](./imagenes/short-1-3.png)
 
-****Grabado por Providencia (-33.41154774279605, -70.59934651215885). Para grabar se utilizó una Panasonic HC-X2000 y para editar se usó Davinci Resolve (Audio, Color, Montaje).****
+****Grabado por Providencia *(-33.41154774279605, -70.59934651215885)*. Para grabar se utilizó una Panasonic HC-X2000 y para editar se usó Davinci Resolve (Audio, Color, Montaje).****
 
 ****Se creó una ruta por Providencia para grabar de manera contínua, desde el interiór del metro, por afuera y de vuelta. Se grabó con la camara dentro de una bolsa de Jumbo con un orifício, para poder caminar la ruta planeada mientras se grababa.****
 
@@ -81,7 +106,7 @@
   - Basta con costura invisible hecha a mano
   - Cierre YKK
 
->*modelo: cris*
+>*modelo: [cris](https://www.instagram.com/kaiik0u/)*
 >
 >*grabación: yo*
 >
@@ -100,7 +125,7 @@
 ![pantalón-1-3](./imagenes/pantalon-1-3.png)
 ![pantalón-1-2](./imagenes/pantalon-1-2.png)
 
-****Grabado una oficina (-33.423317, -70.608844) amablemente facilitada para el proyecto por Mary. Se grabó y fotografió a gente desconocida en la calle (Sanhattan) sujetando el pantalón (2do still). Para grabar y sacar fotos se utilizó una Nikon D5600 y iPhone. Y para editar se usó Davinci Resolve y Sony Vegas 18 Pro (Audio, Color, Montaje).****
+****Grabado una oficina *(-33.423317, -70.608844)* amablemente facilitada para el proyecto por Mary. Se grabó y fotografió a gente desconocida en la calle (Sanhattan) sujetando el pantalón (2do still). Para grabar y sacar fotos se utilizó una Nikon D5600 y iPhone. Y para editar se usó Davinci Resolve y Sony Vegas 18 Pro (Audio, Color, Montaje).****
 
 ****El video fue parte del 3% (de 1550) preseleccionado para el Artist Grant del 2025.****
 
@@ -129,7 +154,7 @@
 ![chaqueta-2-2](./imagenes/chaqueta-2-2.jpeg)
 ![chaqueta-2-3](./imagenes/chaqueta-2-3.jpeg)
 
-****Grabado en Quilicura (-33.343065, -70.730248) con una Panasonic HC-X2000 y Nikon COOLPIX A10. Se usó Gaussian Splatting (Postshot) para el efecto "3D". Se editó en Davinci Resolve (Audio, Color, Montaje).****
+****Grabado en Quilicura *(-33.343065, -70.730248)* con una Panasonic HC-X2000 y Nikon COOLPIX A10. Se usó Gaussian Splatting (Postshot) para el efecto "3D". Se editó en Davinci Resolve (Audio, Color, Montaje).****
 
 - ****Especificaciónes:****
   - Patronaje propio (Chaqueta bomber/blazer)
@@ -160,7 +185,7 @@
 ![camisa-1-1](./imagenes/camisa-1-1.png)
 ![camisa-1-3](./imagenes/camisa-1-3.png)
 
-****Grabado en el Parque Bicentenario (-33.399612, -70.602811), en la FAAD (UDP) + compilación de imagenes. Se utilizó una Panasonic HC-X2000 y Nikon COOLPIX A10. Para efectos se usó TouchDesigner y para editar se usaron Davinci Resolve y Sony Vegas 18 Pro (Audio, Color, Montaje).****
+****Grabado en el Parque Bicentenario *(-33.399612, -70.602811)*, en la FAAD (UDP) + compilación de imagenes. Se utilizó una Panasonic HC-X2000 y Nikon COOLPIX A10. Para efectos se usó TouchDesigner y para editar se usaron Davinci Resolve y Sony Vegas 18 Pro (Audio, Color, Montaje).****
 
 - ****Especificaciónes:****
   - Patronaje propio (Camisa asimétrica)
@@ -171,11 +196,11 @@
 
 >*modelo: yo*
 >
->*grabación: yo/diego/cris*
+>*grabación: yo/diego/[cris](https://www.instagram.com/kaiik0u/)*
 >
 >*edición/color grading: yo*
 >
->*ayuda: diego/cris*
+>*ayuda: diego/[cris](https://www.instagram.com/kaiik0u/)*
 >
 >*música: yo (ableton)*
 >
@@ -231,7 +256,7 @@
   - Terminado deshilachado y costuras a mano en bolsillo y basta
   - Botones concha perla
 
->*modelo: yo/cris*
+>*modelo: yo/[cris](https://www.instagram.com/kaiik0u/)*
 >
 >*fotografía: yo*
 >
