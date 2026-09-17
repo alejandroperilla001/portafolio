@@ -1,10 +1,10 @@
 # $\color{White}\Huge{\textbf{alejandroperilla001}}$ ![logo](./imagenes/logomini.png)[^1].
 
-> https://www.instagram.com/aperilla________ *(final)*
+> https://www.instagram.com/aperilla________/ *(final)*
 >
-> https://www.instagram.com/alejandroperilla001 *(procesos)*
+> https://www.instagram.com/alejandroperilla001/ *(procesos)*
 > 
-> https://www.youtube.com/@alejandroperilla001 *(videos alta calidad)*
+> https://www.youtube.com/@alejandroperilla001/ *(videos alta calidad)*
 
 -----------------------------------------
 
@@ -59,7 +59,7 @@
 ## $\color{White}\Huge{\textbf{Portafolio}}$
 
 ### $\color{White}\large{\textbf{1:  Blazer-2}}$
-  - **Chaqueta sastre + video(stills)**
+  - **chaqueta sastre + video(stills)**
 
 ![blazer-2-1](./imagenes/blazer-2-1.png)
 ![blazer-2-2](./imagenes/blazer-2-2.png)
@@ -84,7 +84,7 @@
 >
 >*música: yo (ableton)*
 >
->[*video completo*](https://www.youtube.com/watch?v=Y7w2_wEkg5I)
+>[*video completo*](https://www.youtube.com/watch?v=Y7w2_wEkg5I) / [*instagram*](https://www.instagram.com/p/DdRoz69EbOi)
 
 -----------------------------------------
 
@@ -116,7 +116,7 @@
 >
 >*música: yo (ableton)*
 >
->[*video completo*](https://www.youtube.com/watch?v=CWF338GuosY)
+>[*video completo*](https://www.youtube.com/watch?v=CWF338GuosY) / [*instagram*](https://www.instagram.com/p/DOUbNTOkWhu)
 
 -----------------------------------------
 
@@ -179,7 +179,7 @@
 >
 >*música: yo (ableton)*
 >
->[*video completo*](https://www.youtube.com/watch?v=NZLylnTXRs8)
+>[*video completo*](https://www.youtube.com/watch?v=NZLylnTXRs8) / [*instagram*](https://www.instagram.com/p/DK_AQ_LxGp9)
 
 -----------------------------------------
 
@@ -232,7 +232,7 @@
 >
 >*música: weed420 - La Guerra De Los Sexos*
 >
->[*video completo*](https://www.youtube.com/watch?v=uoZ_5zrZdN4)
+>[*video completo*](https://www.youtube.com/watch?v=uoZ_5zrZdN4) / [*instagram*](https://www.instagram.com/p/DIu34aCxO5)
 
 -----------------------------------------
 
@@ -263,7 +263,7 @@
 >
 >*musica: slauson malone 1 - undercommons*
 >
->[*video completo*](https://www.youtube.com/watch?v=W_qiskR5X0A)
+>[*video completo*](https://www.youtube.com/watch?v=W_qiskR5X0A) / [*instagram*](https://www.instagram.com/p/DExQJUOxGjT)
 
 -----------------------------------------
 
@@ -292,7 +292,7 @@
 >
 >*música: newyork - rapstar*
 >
->[*video completo*](https://www.youtube.com/watch?v=DZKmqcFhRBs)
+>[*video completo*](https://www.youtube.com/watch?v=DZKmqcFhRBs) / [*instagram*](https://www.instagram.com/p/DCIpblaxSWD)
 
 -----------------------------------------
 
@@ -324,7 +324,7 @@
 >
 >*música: yo (ableton)*
 >
->[*video completo*](https://www.youtube.com/watch?v=x8c565VDIYk)
+>[*video completo*](https://www.youtube.com/watch?v=x8c565VDIYk) / [*instagram*](https://www.instagram.com/p/C-SvD7-gIK3)
 
 -----------------------------------------
 
