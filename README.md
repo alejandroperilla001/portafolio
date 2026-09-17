@@ -1,8 +1,8 @@
 # $\color{White}\Huge{\textbf{alejandroperilla001}}$ ![logo](./imagenes/logomini.png)[^1].
 
-> https://www.instagram.com/aperilla________/ *(final)*
+> https://www.instagram.com/aperilla________ *(final)*
 >
-> https://www.instagram.com/alejandroperilla001/ *(procesos)*
+> https://www.instagram.com/alejandroperilla001 *(procesos)*
 > 
 > https://www.youtube.com/@alejandroperilla001 *(videos alta calidad)*
 
@@ -14,27 +14,27 @@
 
 ## $\color{White}\Huge{\textbf{Index}}$
 
-### $\color{White}\large{\textbf{Ropa}}$
+### $\color{White}\large{\textbf{Ropa}}$ 
 
->[*Punto abierto*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf1--punto-abierto)
+>[*Blazer-2*](https://github.com/alejandroperilla001/portafolio#colorwhitelargetextbf1--blazer-2)
 >
 >[*Short-1*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf2--short-1)
 >
->[*Pantalón-1*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf3--pantal%C3%B3n-1)
+>[*Camisa-2*](https://github.com/alejandroperilla001/portafolio#colorwhitelargetextbf3--camisa-2)
 >
->[*Chaqueta-2*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf4--chaqueta-2)
+>[*Camisa-1*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf4--camisa-1)
 >
->[*Camisa-1*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf5--camisa-1)
+>[*Punto abierto*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf5--punto-abierto)
 >
->[*Impermeable-1*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf6--impermeable-1)
+>[*Blazer-1*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf6--blazer-1)
 >
->[*Blazer-1*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf7--blazer-1)
+>[*Chaqueta-2*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf7--chaqueta-2)
 >
->[*Pantalón-2*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf8--pantalon-2)
+>[*Pantalón-1*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf8--pantal%C3%B3n-1)
 >
->[*Camisa-2*](https://github.com/alejandroperilla001/portafolio#colorwhitelargetextbf9--camisa-2)
+>[*Impermeable-1*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf9--impermeable-1)
 >
->[*Blazer-2*](https://github.com/alejandroperilla001/portafolio#colorwhitelargetextbf10--blazer-2)
+>[*Pantalón-2*](https://github.com/alejandroperilla001/portafolio/tree/main#colorwhitelargetextbf10--pantalon-2)
 
 -----------------------------------------
 
@@ -54,35 +54,37 @@
 >
 > [*9.6_1.mp3*](https://github.com/user-attachments/files/32223134/9.6_1.mp3)
 
-
-
-
-
-
-
-
 -----------------------------------------
 
 ## $\color{White}\Huge{\textbf{Portafolio}}$
 
-### $\color{White}\large{\textbf{1:  Punto abierto}}$
-  - **conjunto tejido + sesión fotográfica**
+### $\color{White}\large{\textbf{1:  Blazer-2}}$
+  - **Chaqueta sastre + video(stills)**
 
-![tejido-1-1](./imagenes/tejido-1-1.jpeg)
-![tejido-1-2](./imagenes/tejido-1-2.jpeg)
-![tejido-1-3](./imagenes/tejido-1-3.jpeg)
+![blazer-2-1](./imagenes/blazer-2-1.png)
+![blazer-2-2](./imagenes/blazer-2-2.png)
+![blazer-2-3](./imagenes/blazer-2-3.png)
 
-****Fotos sacadas en el Mall Araucano *(-33.401315, -70.575180)*. Se utilizó una Nikon D5000. Para editar se usó Davinci Resolve (Color, Montaje). El trabajo fue en grupo por lo que el resto de prendas son de compañeros *(La mia siendo el chaleco).*****
+****Grabado por Plaza de Armas *(-33.4381399, -70.6498295)*. Para grabar se utilizó una Vixia HF G70 y para editar se usó Davinci Resolve (Audio, Color, Montaje).****
+
+****Se grabó en la misma Plaza de Armas y en los Juegos Diana.****
 
 - ****Especificaciónes:****
-  - Patronaje propio (Chaleco suelto)
-  - Hilado de algodón y lana
+  - Patrón propio (Chaqueta sastre a medida)
+  - Armado de pecho (Optima y Napa)
+  - Cuello de una pieza con fieltro
+  - Bolsillos con vivos de 5mm y tapeta
+  - 2 forros (Cuerpo y mangas)
 
->*modelo: [cris](https://www.instagram.com/kaiik0u/)*
+>*modelo: xavier*
 >
->*fotografía: yo*
+>*grabación: yo*
 >
->*resto de prendas: [cris](https://www.instagram.com/kaiik0u/) / [josefa](https://www.instagram.com/josefa.kristina/) / [martina](https://www.instagram.com/m_269a/) / [anto](https://www.instagram.com/oss_wxld/)*
+>*edición/color grading: yo*
+>
+>*música: yo (ableton)*
+>
+>[*video completo*](https://www.youtube.com/watch?v=Y7w2_wEkg5I)
 
 -----------------------------------------
 
@@ -118,185 +120,7 @@
 
 -----------------------------------------
 
-### $\color{White}\large{\textbf{3:  Pantalón-1}}$
-  - **pantalón modificado + video(stills)**
-
-![pantalón-1-1](./imagenes/pantalon-1-1.png)
-![pantalón-1-3](./imagenes/pantalon-1-3.png)
-![pantalón-1-2](./imagenes/pantalon-1-2.png)
-
-****Grabado una oficina *(-33.423317, -70.608844)* amablemente facilitada para el proyecto por Mary. Se grabó y fotografió a gente desconocida en la calle (Sanhattan) sujetando el pantalón (2do still). Para grabar y sacar fotos se utilizó una Nikon D5600 y iPhone. Y para editar se usó Davinci Resolve y Sony Vegas 18 Pro (Audio, Color, Montaje).****
-
-****El video fue parte del 3% (de 1550) preseleccionado para el Artist Grant del 2025.****
-
-- ****Especificaciónes:****
-  - Patrón no propio (Modificado en las rodillas y pretina)
-  - Mezclilla
-  - Remaches
-  - Cierre YKK
-
->*modelos: ???*
->
->*grabación: yo*
->
->*edición/color grading: yo*
->
->*música: newyork - rapstar*
->
->[*video completo*](https://www.youtube.com/watch?v=DZKmqcFhRBs)
-
------------------------------------------
-
-### $\color{White}\large{\textbf{4:  Chaqueta-2}}$
-  - **chaqueta mochila + video(stills)**
-
-![chaqueta-2-1](./imagenes/chaqueta-2-1.jpeg)
-![chaqueta-2-2](./imagenes/chaqueta-2-2.jpeg)
-![chaqueta-2-3](./imagenes/chaqueta-2-3.jpeg)
-
-****Grabado en Quilicura *(-33.343065, -70.730248)* con una Panasonic HC-X2000 y Nikon COOLPIX A10. Se usó Gaussian Splatting (Postshot) para el efecto "3D". Se editó en Davinci Resolve (Audio, Color, Montaje).****
-
-- ****Especificaciónes:****
-  - Patronaje propio (Chaqueta bomber/blazer)
-  - Cuerpo de algodón
-  - Forro tafetán
-  - Puño de algodón
-  - Tiras interiores para usar como mochila
-
-
->*modelo: bea*
->
->*grabación: yo*
->
->*edición/color grading: yo*
->
->*ayuda: diego*
->
->*musica: slauson malone 1 - undercommons*
->
->[*video completo*](https://www.youtube.com/watch?v=W_qiskR5X0A)
-
------------------------------------------
-
-### $\color{White}\large{\textbf{5:  Camisa-1}}$
-  - **camisa con cierre curvo + video(stills)**
-
-![camisa-1-2](./imagenes/camisa-1-2.png)
-![camisa-1-1](./imagenes/camisa-1-1.png)
-![camisa-1-3](./imagenes/camisa-1-3.png)
-
-****Grabado en el Parque Bicentenario *(-33.399612, -70.602811)*, en la FAAD (UDP) + compilación de imagenes. Se utilizó una Panasonic HC-X2000 y Nikon COOLPIX A10. Para efectos se usó TouchDesigner y para editar se usaron Davinci Resolve y Sony Vegas 18 Pro (Audio, Color, Montaje).****
-
-- ****Especificaciónes:****
-  - Patronaje propio (Camisa asimétrica)
-  - Cuerpo de algodón
-  - Hilo reflectante
-  - Cierre YKK
-
-
->*modelo: yo*
->
->*grabación: yo/diego/[cris](https://www.instagram.com/kaiik0u/)*
->
->*edición/color grading: yo*
->
->*ayuda: diego/[cris](https://www.instagram.com/kaiik0u/)*
->
->*música: yo (ableton)*
->
->[*video completo*](https://www.youtube.com/watch?v=NZLylnTXRs8)
-
------------------------------------------
-
-### $\color{White}\large{\textbf{6:  Impermeable-1}}$
-  - **chaqueta impermeable + video(stills)**
-
-![impermeable-1-1](./imagenes/chaqueta-3-3.png)
-![impermeable-1-2](./imagenes/chaqueta-3-2.png)
-![impermeable-1-3](./imagenes/chaqueta-3-1.png)
-
-****Fotos sacadas por Providencia *(-33.419746, -70.606137)*. Se utilizó una Nikon D5000 y Nikon COOLPIX A10. Para editar se usó Sony Vegas 18 Pro (Color, Montaje). Se tomaron varias fotos de la chaqueta en publico y se creó un informativo sobre un producto no existente para tener de fondo en el video. También se usó fotogrametría para crear modelos 3D me mí usando la chaqueta.****
-
-- ****Especificaciónes:****
-  - Patronaje no propio (Modificado)
-  - Tela impermeable
-  - Forro malla
-  - Elasticos en puño
-  - Cierre impermeable
-
->*modelo: yo*
->
->*fotografía: yo*
->
->*grabación: yo*
->
->*edición/color grading: yo*
->
->*ayuda: anto*
->
->*música: yo (ableton)*
->
->[*video completo*](https://www.youtube.com/watch?v=x8c565VDIYk)
-
------------------------------------------
-
-### $\color{White}\large{\textbf{7:  Blazer-1}}$
-  - **blazer/bolso/falda + video(stills)**
-
-![blazer-1-3](./imagenes/chaqueta-1-4.jpg)
-![blazer-1-1](./imagenes/chaqueta-1-1.png)
-![blazer-1-2](./imagenes/chaqueta-1-2.png)
-
-****Videos grabados por Providencia *(-33.410579, -70.604302)* y fotos sacadas en la FAAD (UDP). Se utilizó una Nikon D5000 y Osmo Pocket 3. Para editar se usó Davinci Resolve y Sony Vegas 18 Pro (Color, Montaje).****
-
-- ****Especificaciónes:****
-  - Patronaje propio
-  - Tela Lino
-  - Forro algodón
-  - Terminado deshilachado y costuras a mano en bolsillo y basta
-  - Botones concha perla
-
->*modelo: yo/[cris](https://www.instagram.com/kaiik0u/)*
->
->*fotografía: yo*
->
->*grabación: yo/diego*
->
->*edición/color grading: yo*
->
->*ayuda: diego*
->
->*música: weed420 - La Guerra De Los Sexos*
->
->[*video completo*](https://www.youtube.com/watch?v=uoZ_5zrZdN4)
-
------------------------------------------
-
-### $\color{White}\large{\textbf{8:  Pantalón-2}}$
-  - **pantalon transparente + sesión fotográfica**
-
-![pantalon-2-1](./imagenes/pantalon-2-1.png)
-![pantalon-2-3](./imagenes/pantalon-2-3.png)
-
-****Fotos sacadas en una piscina frente a una manta termica *(???)*. Para las fotos se utilizó un iPhone SE. Para editar se usó Adobe Illustrator 2020 (Color, Montaje).****
-
-- ****Especificaciónes:****
-  - Patronaje no propio (Modificado)
-  - Tela PVC Semi-Transparente
-  - Elasticos de ajuste en pretina y bastas
-  - Terminado con costuras exteriores expuestas
-
->*modelo: yo*
->
->*fotografía: anto*
->
->*edición/color grading: yo*
->
->*ayuda: anto*
-
------------------------------------------
-
-### $\color{White}\large{\textbf{9:  Camisa-2}}$
+### $\color{White}\large{\textbf{3:  Camisa-2}}$
   - **pantalón/camisa/gorro/pin + sesión fotográfica/video(stills)**
 
 ![camisa-2-1](./imagenes/camisa-2-1.jpg)
@@ -329,34 +153,202 @@
 
 -----------------------------------------
 
-### $\color{White}\large{\textbf{10:  Blazer-2}}$
-  - **Chaqueta sastre + video(stills)**
+### $\color{White}\large{\textbf{4:  Camisa-1}}$
+  - **camisa con cierre curvo + video(stills)**
 
+![camisa-1-2](./imagenes/camisa-1-2.png)
+![camisa-1-1](./imagenes/camisa-1-1.png)
+![camisa-1-3](./imagenes/camisa-1-3.png)
 
-![blazer-2-1](./imagenes/blazer-2-1.png)
-![blazer-2-2](./imagenes/blazer-2-2.png)
-![blazer-2-3](./imagenes/blazer-2-3.png)
-
-****Grabado por Plaza de Armas *(-33.4381399, -70.6498295)*. Para grabar se utilizó una Vixia HF G70 y para editar se usó Davinci Resolve (Audio, Color, Montaje).****
-
-****Se grabó en la misma Plaza de Armas y en los Juegos Diana.****
+****Grabado en el Parque Bicentenario *(-33.399612, -70.602811)*, en la FAAD (UDP) + compilación de imagenes. Se utilizó una Panasonic HC-X2000 y Nikon COOLPIX A10. Para efectos se usó TouchDesigner y para editar se usaron Davinci Resolve y Sony Vegas 18 Pro (Audio, Color, Montaje).****
 
 - ****Especificaciónes:****
-  - Patrón propio (Chaqueta sastre a medida)
-  - Armado de pecho (Optima y Napa)
-  - Cuello de una pieza con fieltro
-  - Bolsillos con vivos de 5mm y tapeta
-  - 2 forros (Cuerpo y mangas)
+  - Patronaje propio (Camisa asimétrica)
+  - Cuerpo de algodón
+  - Hilo reflectante
+  - Cierre YKK
 
->*modelo: xavier*
+
+>*modelo: yo*
+>
+>*grabación: yo/diego/[cris](https://www.instagram.com/kaiik0u/)*
+>
+>*edición/color grading: yo*
+>
+>*ayuda: diego/[cris](https://www.instagram.com/kaiik0u/)*
+>
+>*música: yo (ableton)*
+>
+>[*video completo*](https://www.youtube.com/watch?v=NZLylnTXRs8)
+
+-----------------------------------------
+
+### $\color{White}\large{\textbf{5:  Punto abierto}}$
+  - **conjunto tejido + sesión fotográfica**
+
+![tejido-1-1](./imagenes/tejido-1-1.jpeg)
+![tejido-1-2](./imagenes/tejido-1-2.jpeg)
+![tejido-1-3](./imagenes/tejido-1-3.jpeg)
+
+****Fotos sacadas en el Mall Araucano *(-33.401315, -70.575180)*. Se utilizó una Nikon D5000. Para editar se usó Davinci Resolve (Color, Montaje). El trabajo fue en grupo por lo que el resto de prendas son de compañeros *(La mia siendo el chaleco).*****
+
+- ****Especificaciónes:****
+  - Patronaje propio (Chaleco suelto)
+  - Hilado de algodón y lana
+
+>*modelo: [cris](https://www.instagram.com/kaiik0u/)*
+>
+>*fotografía: yo*
+>
+>*resto de prendas: [cris](https://www.instagram.com/kaiik0u/) / [josefa](https://www.instagram.com/josefa.kristina/) / [martina](https://www.instagram.com/m_269a/) / [anto](https://www.instagram.com/oss_wxld/)*
+
+-----------------------------------------
+
+### $\color{White}\large{\textbf{6:  Blazer-1}}$
+  - **blazer/bolso/falda + video(stills)**
+
+![blazer-1-3](./imagenes/chaqueta-1-4.jpg)
+![blazer-1-1](./imagenes/chaqueta-1-1.png)
+![blazer-1-2](./imagenes/chaqueta-1-2.png)
+
+****Videos grabados por Providencia *(-33.410579, -70.604302)* y fotos sacadas en la FAAD (UDP). Se utilizó una Nikon D5000 y Osmo Pocket 3. Para editar se usó Davinci Resolve y Sony Vegas 18 Pro (Color, Montaje).****
+
+- ****Especificaciónes:****
+  - Patronaje propio
+  - Tela Lino
+  - Forro algodón
+  - Terminado deshilachado y costuras a mano en bolsillo y basta
+  - Botones concha perla
+
+>*modelo: yo/[cris](https://www.instagram.com/kaiik0u/)*
+>
+>*fotografía: yo*
+>
+>*grabación: yo/diego*
+>
+>*edición/color grading: yo*
+>
+>*ayuda: diego*
+>
+>*música: weed420 - La Guerra De Los Sexos*
+>
+>[*video completo*](https://www.youtube.com/watch?v=uoZ_5zrZdN4)
+
+-----------------------------------------
+
+### $\color{White}\large{\textbf{7:  Chaqueta-2}}$
+  - **chaqueta mochila + video(stills)**
+
+![chaqueta-2-1](./imagenes/chaqueta-2-1.jpeg)
+![chaqueta-2-2](./imagenes/chaqueta-2-2.jpeg)
+![chaqueta-2-3](./imagenes/chaqueta-2-3.jpeg)
+
+****Grabado en Quilicura *(-33.343065, -70.730248)* con una Panasonic HC-X2000 y Nikon COOLPIX A10. Se usó Gaussian Splatting (Postshot) para el efecto "3D". Se editó en Davinci Resolve (Audio, Color, Montaje).****
+
+- ****Especificaciónes:****
+  - Patronaje propio (Chaqueta bomber/blazer)
+  - Cuerpo de algodón
+  - Forro tafetán
+  - Puño de algodón
+  - Tiras interiores para usar como mochila
+
+
+>*modelo: bea*
 >
 >*grabación: yo*
 >
 >*edición/color grading: yo*
 >
+>*ayuda: diego*
+>
+>*musica: slauson malone 1 - undercommons*
+>
+>[*video completo*](https://www.youtube.com/watch?v=W_qiskR5X0A)
+
+-----------------------------------------
+
+### $\color{White}\large{\textbf{8:  Pantalón-1}}$
+  - **pantalón modificado + video(stills)**
+
+![pantalón-1-1](./imagenes/pantalon-1-1.png)
+![pantalón-1-3](./imagenes/pantalon-1-3.png)
+![pantalón-1-2](./imagenes/pantalon-1-2.png)
+
+****Grabado una oficina *(-33.423317, -70.608844)* amablemente facilitada para el proyecto por Mary. Se grabó y fotografió a gente desconocida en la calle (Sanhattan) sujetando el pantalón (2do still). Para grabar y sacar fotos se utilizó una Nikon D5600 y iPhone. Y para editar se usó Davinci Resolve y Sony Vegas 18 Pro (Audio, Color, Montaje).****
+
+****El video fue parte del 3% (de 1550) preseleccionado para el Artist Grant del 2025.****
+
+- ****Especificaciónes:****
+  - Patrón no propio (Modificado en las rodillas y pretina)
+  - Mezclilla
+  - Remaches
+  - Cierre YKK
+
+>*modelos: ???*
+>
+>*grabación: yo*
+>
+>*edición/color grading: yo*
+>
+>*música: newyork - rapstar*
+>
+>[*video completo*](https://www.youtube.com/watch?v=DZKmqcFhRBs)
+
+-----------------------------------------
+
+### $\color{White}\large{\textbf{9:  Impermeable-1}}$
+  - **chaqueta impermeable + video(stills)**
+
+![impermeable-1-1](./imagenes/chaqueta-3-3.png)
+![impermeable-1-2](./imagenes/chaqueta-3-2.png)
+![impermeable-1-3](./imagenes/chaqueta-3-1.png)
+
+****Fotos sacadas por Providencia *(-33.419746, -70.606137)*. Se utilizó una Nikon D5000 y Nikon COOLPIX A10. Para editar se usó Sony Vegas 18 Pro (Color, Montaje). Se tomaron varias fotos de la chaqueta en publico y se creó un informativo sobre un producto no existente para tener de fondo en el video. También se usó fotogrametría para crear modelos 3D me mí usando la chaqueta.****
+
+- ****Especificaciónes:****
+  - Patronaje no propio (Modificado)
+  - Tela impermeable
+  - Forro malla
+  - Elasticos en puño
+  - Cierre impermeable
+
+>*modelo: yo*
+>
+>*fotografía: yo*
+>
+>*grabación: yo*
+>
+>*edición/color grading: yo*
+>
+>*ayuda: anto*
+>
 >*música: yo (ableton)*
 >
->[*video completo*](https://www.youtube.com/watch?v=Y7w2_wEkg5I)
+>[*video completo*](https://www.youtube.com/watch?v=x8c565VDIYk)
+
+-----------------------------------------
+
+### $\color{White}\large{\textbf{10:  Pantalón-2}}$
+  - **pantalon transparente + sesión fotográfica**
+
+![pantalon-2-1](./imagenes/pantalon-2-1.png)
+![pantalon-2-3](./imagenes/pantalon-2-3.png)
+
+****Fotos sacadas en una piscina frente a una manta termica *(???)*. Para las fotos se utilizó un iPhone SE. Para editar se usó Adobe Illustrator 2020 (Color, Montaje).****
+
+- ****Especificaciónes:****
+  - Patronaje no propio (Modificado)
+  - Tela PVC Semi-Transparente
+  - Elasticos de ajuste en pretina y bastas
+  - Terminado con costuras exteriores expuestas
+
+>*modelo: yo*
+>
+>*fotografía: anto*
+>
+>*edición/color grading: yo*
+>
+>*ayuda: anto*
 
 -----------------------------------------
 
